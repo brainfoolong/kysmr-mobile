@@ -1,0 +1,9 @@
+node_modules
+.idea
+!.gitignore
+media
+key
+dist
+platforms
+plugins
+.DS_Store

@@ -1,0 +1,27 @@
+.hidden {
+    display: none !important;
+}
+
+.navbar-inner {
+    background: white;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 0 9px;
+    color: #333333;
+}
+
+
+.navbar .appicon {
+    position: absolute;
+    left: 13px;
+    top: 13px;
+    width: 24px;
+    height: 24px;
+    background: url(../img/appicon-colored.png) no-repeat;
+    background-size: contain;
+    transition: 0.2s;
+}
+
+
+.navbar .title small {
+    font-size: 11px;
+    color: #888888;
+}
