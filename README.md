@@ -9,8 +9,8 @@ This app does the following
 * Use your fingerprint to execute the keyboard simulation
 
 ## What apps you need
-* Download and install release of this desktop application
-* Download and install a release of the mobile android app
+* Download and install [release of the desktop application](https://github.com/brainfoolong/kysmr-desktop/releases) ([Github](https://github.com/brainfoolong/kysmr-desktop))
+* Download and install a [release of the mobile android app](https://play.google.com/store/apps/details?id=kysmrmobile.nullix.at) ([Github](https://github.com/brainfoolong/kysmr-mobile))
 
 ## Requirements
 * Have the desktop and mobile phone in the same local network (LAN/WLAN)
